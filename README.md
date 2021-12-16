@@ -7,7 +7,7 @@
 1. Update and upgrade your system.
 
 ```bash
-$sudo apt-get update && apt-get upgrade
+$ sudo apt-get update && apt-get upgrade
 ```
 
 2. Install python.
