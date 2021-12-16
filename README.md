@@ -31,3 +31,6 @@ $ cd ddos-tool
 ```bash
 $ python3 ddos.py -h target_ip -p target_port -t 1000 
 ```
+
+
+<b> Original respo form [cyweb](https://github.com/cyweb/)
