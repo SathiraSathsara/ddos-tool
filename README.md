@@ -1,4 +1,4 @@
-# Hammer Denial of Service Attack tool 
+# Denial of Service Attack tool 
 
 <b>Note: Use this for only educational perpouse. And use this on your own risk.</b>
 
