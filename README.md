@@ -29,7 +29,7 @@ $ cd ddos-tool
 4. Start Attack.
 
 ```bash
-$ python3 ddos.py -h target_ip -p target_port -t 1000 
+$ python3 ddos.py -s target_ip -p target_port -t 1000 
 ```
 
 
