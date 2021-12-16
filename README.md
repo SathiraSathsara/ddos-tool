@@ -32,7 +32,7 @@ $ cd ddos-tool
 $ python3 ddos.py -s target_ip -p target_port -t 1000 
 ```
 
-for more details do ```bash sudo python3 ddos.py -h ```
+for more details do ``` sudo python3 ddos.py -h ```
 
 
 <br>
