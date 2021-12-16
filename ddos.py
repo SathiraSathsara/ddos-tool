@@ -3,20 +3,7 @@
 
 # by Can Yalçın
 # only for legal purpose
-
-logo=("""
- +----------------------------------------------------------------------+
- |                                                                      |
- |                   Sathira Sri Sathsara                               |
- |                                                                      |
- +----------------------------------------------------------------------+
-""")
-bar='**_____________________________________**'
-print(bar+'\n')
-print(logo)
-print(bar+'\n')
-time.sleep(0.3)
-print ("""
+# this respo by sathira sri sathsara
 
 
 from queue import Queue
