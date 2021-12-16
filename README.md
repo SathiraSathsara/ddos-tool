@@ -36,4 +36,4 @@ $ python3 ddos.py -h target_ip -p target_port -t 1000
 
 <br>
 
-<b> Original respo form [cyweb](https://github.com/cyweb/)
+<b> Original respo by [cyweb](https://github.com/cyweb/)
